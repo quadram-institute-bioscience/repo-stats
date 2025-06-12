@@ -1,0 +1,5 @@
+package,downloads,latest_version,summary,license,home_page
+seqfu,0,1.22.3,DNA sequence utilities,GPL-3.0-only,
+dadaist2,0,1.3.1,Command line wrapper to run DADA2 on a set of paired-end reads,MIT,
+lotus2,0,2.34.1,LotuS2 is a lightweight complete 16S/18S/ITS pipeline,GPL-3.0-or-later,
+socru,0,2.2.4,Order and orientation of complete bacterial genomes,GPLv3,

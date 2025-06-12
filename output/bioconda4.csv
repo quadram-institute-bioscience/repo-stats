@@ -1,0 +1,3 @@
+package_name,timestamp,summary,license,home_url,dev_url,doc_url,total_versions,latest_version,platforms_supported,total_builds,average_size_bytes,channel_listed,anaconda_api_available,download_stats_note
+seqfu,2025-06-11T16:42:10.836929,DNA sequence utilities,GPL-3.0-only,http://github.com/quadram-institute-bioscience/seqfu/,,,152,1.9.3,"osx-64, noarch, linux-64",152,1783750.4473684211,True,True,Install condastats: conda install -c conda-forge condastats
+vsearch,2025-06-11T16:42:15.599440,A versatile open source tool for metagenomics (USEARCH alternative),GPL-3.0-or-later OR BSD-2-Clause,None,,,147,2.9.1,"osx-64, linux-64",147,480174.89795918367,True,True,Install condastats: conda install -c conda-forge condastats
